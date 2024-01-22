@@ -1,0 +1,15 @@
+ford edge bruteforce hs-can
+0x81 - steering wheel buttons
+first byte
+0b ? ? up or down (right), up (left pad),
+
+0x103 starting system fault
+10b - rear park aid
+0x156 - engine coolant temp
+153 - gear came on idk when tho
+0x165 - CC
+0x159 - check fuel inlet
+1b4 - tpms?
+201 - speed, rpm and oil pressure
+before 209 was rpm idk when
+231 tow haul mode
